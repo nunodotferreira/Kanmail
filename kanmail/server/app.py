@@ -108,6 +108,7 @@ def boot(prepare_server: bool = True) -> None:
         contacts_api,
         email_api,
         license_api,
+        oauth_api,
         settings_api,
         update_api,
         window_api,
